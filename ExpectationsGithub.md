@@ -1,4 +1,4 @@
-Certainly! Here's a concise version of the markdown file:
+
 
 # Expectations for System Programming with GitHub Course
 
